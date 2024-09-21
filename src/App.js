@@ -9,7 +9,7 @@ import mrBeanImg from './mrbeans.png'; // Import mrbeans.png
 
 function App() {
   const [beans, setBeans] = useState([]);
-  const [wantedLevel, setWantedLevel] = useState(3);
+  const [wantedLevel, setWantedLevel] = useState(5);
   const [showAd, setShowAd] = useState(false);
   const [showPhone, setShowPhone] = useState(false);
   const [audio] = useState(new Audio('https://ia801000.us.archive.org/6/items/fgvsdf/Non-Stop%20Pop%20FM%20%28GTA%20V%29%20ALL%20SONGS%21%21.mp3'));
