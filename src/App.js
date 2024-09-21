@@ -78,7 +78,7 @@ function App() {
         }}
       >
 
-        <div className='absolute top-0 w-screen py-1 bg-slate-300 text-[#000080] font-semibold text-center text-xs'>CA: XXXXXXXXXXXX</div>
+        <div className='absolute top-0 w-screen py-1 bg-slate-300 text-[#000080] font-semibold text-center text-xs'>CA: 8mTab23ayBh5oJcjTCYMdT9joBUgRYHCCzFrBL2Zpump</div>
 
         <div className='absolute top-2 left-2'>
           <img 
