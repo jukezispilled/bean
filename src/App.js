@@ -163,10 +163,10 @@ function App() {
               </WindowHeader>
               <WindowContent>
                 <div className='space-x-2 flex text-lg text-[#000080] px-1 justify-center'>
-                  <a href='' className='underline'>
+                  <a href='https://x.com/beanbeansol' className='underline'>
                     <img src="XLogo.jpg" className='size-14'></img>
                   </a>
-                  <a href='' className='underline'>
+                  <a href='https://t.me/solbeanlol' className='underline'>
                     <img src='TG.png' className='size-14'></img>
                   </a>
                 </div>
